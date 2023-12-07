@@ -1,0 +1,12 @@
+res://scenes/game_screen/game_screen.tscn
+res://assets/GM_32_Darkgray.tres
+res://assets/GM_32_White.tres
+res://scenes/memory_tile/memory_tile.gd
+res://scenes/scorer/scorer.gd
+res://scenes/scorer/scorer.tscn
+res://scenes/game_screen/game_screen.gd
+res://scenes/game_over/game_over.tscn
+res://scenes/game_over/game_over.gd
+res://scripts/singletons/signal_manager.gd
+res://scenes/main_scene/main_screen.tscn
+res://scenes/front_sprite/front_sprite.gd
